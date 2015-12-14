@@ -1,0 +1,2 @@
+MainPackage=C:\Users\User\Documents\Visual Studio 2015\Projects\DC Calculator\DC Calculator\bin\x64\Release\Upload\DC Calculator_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\User\Documents\Visual Studio 2015\Projects\DC Calculator\DC Calculator\AppPackages\DC Calculator_1.1.1.0\DC Calculator_1.1.1.0_x64.appxsym
